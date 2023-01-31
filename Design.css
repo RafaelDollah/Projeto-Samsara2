@@ -1,0 +1,222 @@
+header {
+  position: absolute;
+  width: 1440px;
+  height: 149px;
+  left: 0px;
+  top: 0px;
+
+  width: 100%;
+
+  background: #33652f;
+}
+body {
+  background-color: #292828;
+}
+
+.radiacao {
+  /* m-05-06-2017aaa6461 1 */
+  position: relative;
+  width: 448px;
+  height: 302px;
+  left: 41px;
+  top: 235px;
+  display: flex;
+  background: url(m-05-06-2017aaa6461);
+}
+
+.epi {
+  /* epi_para_tronco 1 */
+
+  position: relative;
+  width: 448px;
+  height: 298px;
+  left: 41px;
+  top: 500px;
+  display: flex;
+  background: url(epi_para_tronco.jpg);
+}
+
+.bottom {
+  /* Rectangle 2 */
+
+  position: absolute;
+  width: 1440px;
+  height: 150px;
+  left: 0px;
+  top: 1500px;
+
+  background: #33652f;
+}
+
+.texto1 {
+  /* A importância dos Epi’s e dos Epc’s (Equipamento de proteção individual e equipamento de proteção coletiva) */
+
+  position: absolute;
+  width: 1440px;
+  height: 38px;
+  left: -69px;
+  top: 151px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+  text-align: center;
+
+  color: #ffffff;
+}
+
+.texto2 {
+  /* EPC é a sigla para Equipamento de Proteção Coletiva, que são equipamentos que devem ser fornecidos pela empresa com o objetivo de proteger os trabalhadores dos riscos fornecidos pelo ambiente de trabalho, de maneira coletiva. Em outras palavras, são equipamentos instalados para garantir a segurança do trabalho enquanto um grupo de pessoas (trabalhadores) executam uma determinada atividade ou tarefa. */
+
+  position: absolute;
+  width: 688px;
+  height: 300px;
+  left: 534px;
+  top: 267px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+
+  color: #ffffff;
+}
+
+.texto3 {
+  /* Prevenir os trabalhadores ou qualquer terceiro que esteja transitando pelo ambiente de qualquer acidente que possivelmente possa ocorrer; Reduzir ou até mesmo anular qualquer risco comum à todos os colaboradores que o ambiente de trabalho possa fornecer; Por fim, minimizar perdas e aumentar a produtividade, ao fornecer aos trabalhadores um local de trabalho mais seguro. */
+
+  position: absolute;
+  width: 1126px;
+  height: 207px;
+  left: 100px;
+  top: 598px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.texto4 {
+  /* O uso do EPI é fundamental para garantir a saúde e a proteção do trabalhador, evitando consequências negativas em casos de acidentes de trabalho. Além disso, o EPI também é usado para garantir que o profissional não será exposto a doenças ocupacionais, que podem comprometer a capacidade de trabalho e de vida dos profissionais durante e depois da fase ativa de trabalho. */
+
+  position: absolute;
+  width: 688px;
+  height: 306px;
+  left: 534px;
+  top: 836px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+
+  color: #ffffff;
+}
+
+.texto5 {
+  /* Proteção de cabeça Proteção auditiva Proteção respiratória Proteção ocular e facial Proteção mãos e braços Proteção pernas e pés */
+
+  position: absolute;
+  width: 1084px;
+  height: 198px;
+  left: 28px;
+  top: 1155px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+  text-align: center;
+
+  color: #ffffff;
+}
+.texto6 {
+  /* Proteção de cabeça Proteção auditiva Proteção respiratória Proteção ocular e facial Proteção mãos e braços Proteção pernas e pés */
+
+  position: absolute;
+  width: 1084px;
+  height: 198px;
+  left: 28px;
+  top: 1200px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 26px;
+  line-height: 31px;
+  text-align: center;
+
+  color: #ffffff;
+}
+.texto7 {
+  /* Site feito por Rafael Rodrigues do Prado Projeto Samsara */
+
+  position: absolute;
+  width: 1383px;
+  height: 30px;
+  left: 28px;
+  top: 1550px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #ffffff;
+}
+.texto8 {
+  position: absolute;
+  width: 1383px;
+  height: 30px;
+  left: 28px;
+  top: 1575px;
+
+  font-family: "Inter";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+
+  color: #ffffff;
+}
+button {
+  /* Group 3 */
+
+  position: absolute;
+  width: 604px;
+  height: 114.87px;
+  left: 41px;
+  top: 1304px;
+  border-color: transparent;
+
+  /* Rectangle 3 */
+
+  position: absolute;
+  width: 604px;
+  height: 114.87px;
+  left: 41px;
+  top: 1304px;
+
+  background: transparent;
+  mix-blend-mode: normal;
+
+  /* Rectangle 4 */
+
+  position: absolute;
+  width: 602.84px;
+  height: 89.35px;
+  left: 42.16px;
+  top: 1329.53px;
+
+  background: transparent;
+}
